@@ -21,6 +21,9 @@ pip3 install -r requirements.txt
 ```
 
 ## Run 
+
 ```
-python3 manage-sales.py
+python3 main.py rank_sellers_by_item <SALE_ITEM_NAME>
+
+# Ex.: python3 main.py rank_sellers_by_item 'Product 1'
 ```
